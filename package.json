@@ -1,0 +1,24 @@
+{
+  "name": "Api_Fake",
+  "version": "1.0.0",
+  "description": "Proyecto con Api_Fake con JSON server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinaCaicedo/Api_Fake.git"
+  },
+  "keywords": [],
+  "author": "Valentina Caicedo Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinaCaicedo/Api_Fake/issues"
+  },
+  "homepage": "https://github.com/ValentinaCaicedo/Api_Fake#readme",
+  "dependencies": {
+    "json": "^10.0.0",
+    "server": "^1.0.30"
+  }
+}
